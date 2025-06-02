@@ -1,0 +1,10 @@
+version: "3.8"
+services:
+  translator:
+    build: .
+    ports:
+      - "3000:3000"
+    env_file:
+      - .env
+    volumes:
+      - ./translation_history.json:/app/translation_history.json

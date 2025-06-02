@@ -1,0 +1,79 @@
+[
+  {
+    "timestamp": "2025-05-27T16:46:37.074Z",
+    "fromLang": "en",
+    "toLang": "uk",
+    "originalText": "hi",
+    "translatedText": "Привіт"
+  },
+  {
+    "timestamp": "2025-05-27T16:45:57.331Z",
+    "fromLang": "en",
+    "toLang": "uk",
+    "originalText": "hi",
+    "translatedText": "Привіт"
+  },
+  {
+    "timestamp": "2025-05-22T09:54:36.571Z",
+    "fromLang": "en",
+    "toLang": "uk",
+    "originalText": "hello how are you. aaa",
+    "translatedText": "Привіт, як ти? Ааа"
+  },
+  {
+    "timestamp": "2025-05-22T09:54:35.701Z",
+    "fromLang": "en",
+    "toLang": "uk",
+    "originalText": "hello how are you. aaa",
+    "translatedText": "Привіт, як справи. любий"
+  },
+  {
+    "timestamp": "2025-05-22T09:54:32.012Z",
+    "fromLang": "en",
+    "toLang": "uk",
+    "originalText": "hello how are you",
+    "translatedText": "Привіт, як справи?"
+  },
+  {
+    "timestamp": "2025-05-22T09:44:10.737Z",
+    "fromLang": "en",
+    "toLang": "uk",
+    "originalText": "hello how are you",
+    "translatedText": "Привіт, як справи?"
+  },
+  {
+    "timestamp": "2025-05-22T09:44:01.592Z",
+    "fromLang": "en",
+    "toLang": "uk",
+    "originalText": "hello",
+    "translatedText": "Привіт"
+  },
+  {
+    "timestamp": "2025-05-22T09:43:02.692Z",
+    "fromLang": "en",
+    "toLang": "uk",
+    "originalText": "hello",
+    "translatedText": "Привіт"
+  },
+  {
+    "timestamp": "2025-05-01T17:24:11.372Z",
+    "fromLang": "en",
+    "toLang": "uk",
+    "originalText": "hey how are you my name is",
+    "translatedText": "Привіт, як справи? Мене звуть"
+  },
+  {
+    "timestamp": "2025-05-01T17:18:50.731Z",
+    "fromLang": "en",
+    "toLang": "uk",
+    "originalText": "how about me",
+    "translatedText": "Як щодо мене"
+  },
+  {
+    "timestamp": "2025-05-01T17:18:34.181Z",
+    "fromLang": "en",
+    "toLang": "uk",
+    "originalText": "hello how are you",
+    "translatedText": "Привіт, як справи?"
+  }
+]

@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 10px;
+  text-align: center;
+  background: #f5f7fa;
+  color: #333;
+}
+.row { display: flex; gap: 10px; align-items: center; margin-bottom: 10px; }
+.column { flex: 1; }
+select, textarea, button, input[type="file"] {
+  width: 100%; padding: 10px; font-size: 16px; border-radius: 5px; border: 1px solid #ccc;
+}
+textarea { resize: vertical; height: 100px; }
+button {
+  background-color: #007bff; color: white; cursor: pointer; transition: background-color 0.3s ease;
+}
+button:hover { background-color: #0056b3; }
+.small-button { padding: 8px 12px; font-size: 14px; max-width: 80px; }
+#dropZone {
+  border: 2px dashed #aaa; padding: 20px; margin-top: 15px;
+  background: #f9f9f9; color: #666;
+}
+#autocompleteList {
+  background: white; border: 1px solid #ccc; text-align: left;
+  position: absolute; z-index: 10; width: 100%; max-height: 150px; overflow-y: auto;
+}
+#autocompleteList div {
+  padding: 8px; cursor: pointer;
+}
+#autocompleteList div:hover {
+  background-color: #f0f0f0;
+}
+
+.word {
+  cursor: pointer;
+}
+
+.word:hover {
+  text-decoration: underline dotted;
+}
+
+
